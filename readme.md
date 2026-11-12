@@ -58,3 +58,9 @@ Balaj
 370.1315
 737
 
+926
+Abdullah Musliu
+
+Ferizaj
+Talinoci i Jerlive
+00492-29
