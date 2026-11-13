@@ -18,6 +18,7 @@ Hipotekë (Data e përfundimit: 30.06.2032)
 Ferizaj
 Talinoci i Jerlive
 00492-29
+Gropa
 
 ```
 
@@ -25,29 +26,8 @@ Talinoci i Jerlive
 
 ```
 
-Përdhesa	Përdhesa	1367.41
-		
-		
-		
-		
-		
-		
-	Gjithsej:	1367.41
-		
-Etazhi	Sqarim	Sipërfaqja (m²)
-Kati 1	Kati 1	1448.44
-		
-		
-		
-		
-		
-		
-	Gjithsej:	1448.44
-		
-Etazhi	Sqarim	Sipërfaqja (m²)
-Bodrumi	Bodrumi	1312.58
-		
-		
-	Gjithsej:	1312.58
+Bodrumi	    1312.58
+Përdhesa	1367.41
+Kati 1	    1448.44
 
 ```
